@@ -79,10 +79,10 @@ section{
 }
 .eu{
 
-position: relative;
-
-bottom: 20%;
-left: 65%;
+    position: relative;
+    width: 35%;
+    bottom: 20%;
+    left: 65%;
 
 }
 
